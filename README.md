@@ -16,3 +16,6 @@
     <td>telnet</td>
 	</tr>
 </table>
+
+## zeek资源
+##### 请参阅[zeek官网](https://www.zeek.org/)页面以了解zeek，并查看有关安装，配置和使用文档
