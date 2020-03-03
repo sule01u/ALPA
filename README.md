@@ -7,7 +7,7 @@
 - ##### Extract email related protocol account password, attachment
 - ##### Extract http-post, ftp uploaded files
 
-## 包含的协议
+## 包含的协议(Included protocol)
 <table>
   <tr>
 		<td>dns</td>
