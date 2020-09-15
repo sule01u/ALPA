@@ -3,11 +3,8 @@
 - ##### 邮件相关协议提取账号密码,附件
 - ##### http-post,ftp提取上传的文件
 
-- ##### Analyze and extract valid data of various protocols in the application layer
-- ##### Extract email related protocol account password, attachment
-- ##### Extract http-post, ftp uploaded files
 
-## 包含的协议(Included protocol)
+## 包含的协议
 <table>
   <tr>
 		<td>dns</td>
